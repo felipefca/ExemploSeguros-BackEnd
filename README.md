@@ -24,6 +24,7 @@
 - Self-Validation
 - Event Sourcing
 - Service Bus
+- Factory Methods
 
 # Beta
 
