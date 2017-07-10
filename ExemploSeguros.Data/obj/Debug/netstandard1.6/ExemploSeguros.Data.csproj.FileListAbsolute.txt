@@ -1,0 +1,12 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\bin\Debug\netstandard1.6\appsettings.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Data.deps.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Data.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Data.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Domain.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Domain.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.pdb

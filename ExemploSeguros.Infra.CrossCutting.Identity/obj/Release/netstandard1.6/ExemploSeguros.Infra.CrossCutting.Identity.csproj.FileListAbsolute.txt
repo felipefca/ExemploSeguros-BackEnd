@@ -1,0 +1,11 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\bin\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.deps.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\bin\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\bin\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\bin\Release\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\bin\Release\netstandard1.6\ExemploSeguros.Domain.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\bin\Release\netstandard1.6\ExemploSeguros.Domain.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\bin\Release\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\obj\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\obj\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\obj\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\obj\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.pdb

@@ -1,0 +1,7 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Domain.Core\bin\Release\netstandard1.6\ExemploSeguros.Domain.Core.deps.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Domain.Core\bin\Release\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Domain.Core\bin\Release\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Domain.Core\obj\Release\netstandard1.6\ExemploSeguros.Domain.Core.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Domain.Core\obj\Release\netstandard1.6\ExemploSeguros.Domain.Core.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Domain.Core\obj\Release\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Domain.Core\obj\Release\netstandard1.6\ExemploSeguros.Domain.Core.pdb

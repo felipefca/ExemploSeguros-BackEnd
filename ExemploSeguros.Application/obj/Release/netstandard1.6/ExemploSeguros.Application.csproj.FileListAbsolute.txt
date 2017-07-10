@@ -1,0 +1,11 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\bin\Release\netstandard1.6\ExemploSeguros.Application.deps.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\bin\Release\netstandard1.6\ExemploSeguros.Application.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\bin\Release\netstandard1.6\ExemploSeguros.Application.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\bin\Release\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\bin\Release\netstandard1.6\ExemploSeguros.Domain.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\bin\Release\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\bin\Release\netstandard1.6\ExemploSeguros.Domain.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\obj\Release\netstandard1.6\ExemploSeguros.Application.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\obj\Release\netstandard1.6\ExemploSeguros.Application.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\obj\Release\netstandard1.6\ExemploSeguros.Application.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Application\obj\Release\netstandard1.6\ExemploSeguros.Application.pdb

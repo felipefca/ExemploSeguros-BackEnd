@@ -1,0 +1,56 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.6</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\ClienteCommand\" />
+    <Folder Include="Interfaces\Business\" />
+    <Folder Include="Interfaces\Repository\ItemRepo\" />
+    <Folder Include="Interfaces\Repository\CoberturasRepo\" />
+    <Folder Include="Interfaces\Repository\PerfilRepo\" />
+    <Folder Include="Interfaces\Repository\QuestionarioRepo\" />
+    <Folder Include="Interfaces\User\" />
+    <Folder Include="Interfaces\Uow\" />
+    <Folder Include="Models\ClienteRoot\" />
+    <Folder Include="Events\" />
+    <Folder Include="Models\ItemRoot\" />
+    <Folder Include="Models\CoberturasRoot\" />
+    <Folder Include="Models\QuestionarioRoot\" />
+    <Folder Include="Models\PerfilRoot\" />
+    <Folder Include="Business\" />
+    <Folder Include="Validations\Documents\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="6.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ExemploSeguros.Domain.Core\ExemploSeguros.Domain.Core.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Validations\ValidationMessages.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ValidationMessages.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Validations\ValidationMessages.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>ValidationMessages.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>

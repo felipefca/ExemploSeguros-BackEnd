@@ -1,0 +1,11 @@
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\bin\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.deps.json
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\bin\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\bin\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\bin\Release\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\bin\Release\netstandard1.6\System.ComponentModel.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\bin\Release\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\bin\Release\netstandard1.6\System.ComponentModel.xml
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\obj\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\obj\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\obj\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.dll
+C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\obj\Release\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.pdb
