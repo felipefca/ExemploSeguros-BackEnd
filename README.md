@@ -32,4 +32,4 @@
 
 # Azure Deploy
 
-- http://exemplotesteseguros.azurewebsites.net/
+- http://appangularseguros.azurewebsites.net/
