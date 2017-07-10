@@ -32,4 +32,4 @@
 
 # Azure Deploy
 
-- http://appangularseguros.azurewebsites.net/
+- http://angularseguros-api.azurewebsites.net/
