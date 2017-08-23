@@ -4,7 +4,7 @@
 
 # Implemented Tools
 - .NET Core
-- ASP.NET WebAPI
+- ASP.NET Core WebAPI
 - C#
 - EntityFramework 7
    - Code First
