@@ -32,4 +32,4 @@
 
 # Azure Deploy
 
-- http://angularseguros-api.azurewebsites.net/
+- http://angularseguros-api.azurewebsites.net/swagger/
