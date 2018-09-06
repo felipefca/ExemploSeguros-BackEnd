@@ -9,3 +9,14 @@ C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\Exemplo
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.AssemblyInfo.cs
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.dll
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.deps.json
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.csproj.CopyComplete

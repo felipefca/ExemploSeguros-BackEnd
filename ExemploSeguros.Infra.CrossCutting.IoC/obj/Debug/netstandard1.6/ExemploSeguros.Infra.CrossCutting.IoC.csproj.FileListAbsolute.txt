@@ -18,3 +18,25 @@ C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\Exemplo
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.AssemblyInfo.cs
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.dll
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\appsettings.json
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.deps.json
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Application.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Data.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Domain.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Application.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Data.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Domain.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.csproj.CoreCompileInputs.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.pdb

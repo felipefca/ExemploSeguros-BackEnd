@@ -10,3 +10,17 @@ C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\Exemplo
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.AssemblyInfo.cs
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.dll
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\bin\Debug\netstandard1.6\appsettings.json
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Data.deps.json
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Data.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Data.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Domain.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\bin\Debug\netstandard1.6\ExemploSeguros.Domain.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.csprojAssemblyReference.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.csproj.CoreCompileInputs.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.AssemblyInfo.cs
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.csproj.CopyComplete
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Data\obj\Debug\netstandard1.6\ExemploSeguros.Data.pdb

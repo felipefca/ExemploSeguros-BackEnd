@@ -9,3 +9,16 @@ C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\Exemplo
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Domain\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.pdb
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Domain\obj\Debug\netstandard1.6\ExemploSeguros.Domain.dll
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Domain\obj\Debug\netstandard1.6\ExemploSeguros.Domain.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\bin\Debug\netstandard1.6\ExemploSeguros.Domain.deps.json
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\bin\Debug\netstandard1.6\ExemploSeguros.Domain.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\bin\Debug\netstandard1.6\ExemploSeguros.Domain.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\obj\Debug\netstandard1.6\ExemploSeguros.Domain.csprojAssemblyReference.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\obj\Debug\netstandard1.6\ExemploSeguros.Domain.Validations.ValidationMessages.resources
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\obj\Debug\netstandard1.6\ExemploSeguros.Domain.csproj.GenerateResource.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\obj\Debug\netstandard1.6\ExemploSeguros.Domain.csproj.CoreCompileInputs.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\obj\Debug\netstandard1.6\ExemploSeguros.Domain.AssemblyInfo.cs
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\obj\Debug\netstandard1.6\ExemploSeguros.Domain.csproj.CopyComplete
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\obj\Debug\netstandard1.6\ExemploSeguros.Domain.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain\obj\Debug\netstandard1.6\ExemploSeguros.Domain.pdb

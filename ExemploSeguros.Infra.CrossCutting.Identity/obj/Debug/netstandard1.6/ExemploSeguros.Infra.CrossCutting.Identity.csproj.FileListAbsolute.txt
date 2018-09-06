@@ -9,3 +9,16 @@ C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\Exemplo
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.AssemblyInfo.cs
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.dll
 C:\Users\Felipe\Documents\Visual Studio 2017\Projects\ExemploSeguros\src\ExemploSeguros.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.deps.json
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\ExemploSeguros.Domain.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\ExemploSeguros.Domain.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.dll
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Identity\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Identity.pdb
