@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETStandard,Version=v1.6": {
       "FluentValidation/6.4.1": {
@@ -1270,6 +1270,12 @@
         "dependencies": {
           "FluentValidation": "6.4.1",
           "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "bin/placeholder/ExemploSeguros.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExemploSeguros.Domain.Core.dll": {}
         }
       }
     }
@@ -4516,24 +4522,33 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Felipe\\.nuget\\packages\\": {}
+    "C:\\Users\\felip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Infra.CrossCutting.Bus\\ExemploSeguros.Infra.CrossCutting.Bus.csproj",
+      "projectUniqueName": "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Infra.CrossCutting.Bus\\ExemploSeguros.Infra.CrossCutting.Bus.csproj",
       "projectName": "ExemploSeguros.Infra.CrossCutting.Bus",
-      "projectPath": "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Infra.CrossCutting.Bus\\ExemploSeguros.Infra.CrossCutting.Bus.csproj",
-      "outputPath": "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Infra.CrossCutting.Bus\\obj\\",
+      "projectPath": "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Infra.CrossCutting.Bus\\ExemploSeguros.Infra.CrossCutting.Bus.csproj",
+      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+      "outputPath": "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Infra.CrossCutting.Bus\\obj\\",
       "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netstandard1.6"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netstandard1.6": {
           "projectReferences": {
-            "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Domain.Core\\ExemploSeguros.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Domain.Core\\ExemploSeguros.Domain.Core.csproj"
+            "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Domain.Core\\ExemploSeguros.Domain.Core.csproj": {
+              "projectPath": "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Domain.Core\\ExemploSeguros.Domain.Core.csproj"
             }
           }
         }
@@ -4544,11 +4559,23 @@
         "dependencies": {
           "NETStandard.Library": {
             "target": "Package",
-            "version": "1.6.1",
+            "version": "[1.6.1, )",
             "autoReferenced": true
           }
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "FluentValidation 6.4.1 depends on System.Text.RegularExpressions (>= 4.0.12) but System.Text.RegularExpressions 4.0.12 was not found. An approximate best match of System.Text.RegularExpressions 4.1.0 was resolved.",
+      "libraryId": "System.Text.RegularExpressions",
+      "targetGraphs": [
+        ".NETStandard,Version=v1.6"
+      ]
+    }
+  ]
 }

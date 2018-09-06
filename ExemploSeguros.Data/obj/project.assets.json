@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "targets": {
     ".NETStandard,Version=v1.6": {
       "Dapper/1.50.2": {
@@ -2361,6 +2361,12 @@
           "ExemploSeguros.Domain.Core": "1.0.0",
           "FluentValidation": "6.4.1",
           "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "bin/placeholder/ExemploSeguros.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExemploSeguros.Domain.dll": {}
         }
       },
       "ExemploSeguros.Domain.Core/1.0.0": {
@@ -2369,13 +2375,19 @@
         "dependencies": {
           "FluentValidation": "6.4.1",
           "NETStandard.Library": "1.6.1"
+        },
+        "compile": {
+          "bin/placeholder/ExemploSeguros.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ExemploSeguros.Domain.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Dapper/1.50.2": {
-      "sha512": "31Ju5VGyNNc66OAsw+SCp1TWPBuyw8ZBdkMG5pSUPChZcy27s2GhVz5B9INP4f25mPqfiJ+mfeHy9JAJyyT+LQ==",
+      "sha512": "6VcCiiOxVhgMwgMCuQuaff8I5IyDamrzeOjuUH1iMExh8R5TJqwkVCpwdVJGQdwSCqWsQA/PerrrK7T6mONthQ==",
       "type": "package",
       "path": "dapper/1.50.2",
       "files": [
@@ -7120,27 +7132,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Felipe\\.nuget\\packages\\": {}
+    "C:\\Users\\felip\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Data\\ExemploSeguros.Data.csproj",
+      "projectUniqueName": "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Data\\ExemploSeguros.Data.csproj",
       "projectName": "ExemploSeguros.Data",
-      "projectPath": "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Data\\ExemploSeguros.Data.csproj",
-      "outputPath": "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Data\\obj\\",
+      "projectPath": "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Data\\ExemploSeguros.Data.csproj",
+      "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
+      "outputPath": "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Data\\obj\\",
       "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\felip\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
       "originalTargetFrameworks": [
         "netstandard1.6"
       ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
       "frameworks": {
         "netstandard1.6": {
           "projectReferences": {
-            "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Domain\\ExemploSeguros.Domain.csproj": {
-              "projectPath": "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Domain\\ExemploSeguros.Domain.csproj"
+            "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Domain.Core\\ExemploSeguros.Domain.Core.csproj": {
+              "projectPath": "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Domain.Core\\ExemploSeguros.Domain.Core.csproj"
             },
-            "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Domain.Core\\ExemploSeguros.Domain.Core.csproj": {
-              "projectPath": "C:\\Users\\Felipe\\Documents\\Visual Studio 2017\\Projects\\ExemploSeguros\\src\\ExemploSeguros.Domain.Core\\ExemploSeguros.Domain.Core.csproj"
+            "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Domain\\ExemploSeguros.Domain.csproj": {
+              "projectPath": "C:\\Repositorios\\ExemploSeguros-BackEnd\\ExemploSeguros.Domain\\ExemploSeguros.Domain.csproj"
             }
           }
         }
@@ -7151,43 +7172,55 @@
         "dependencies": {
           "Dapper": {
             "target": "Package",
-            "version": "1.50.2"
+            "version": "[1.50.2, )"
           },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
-            "version": "1.1.1"
-          },
-          "Microsoft.Extensions.Configuration.FileExtensions": {
-            "target": "Package",
-            "version": "1.1.1"
-          },
-          "Microsoft.Extensions.Configuration.Json": {
-            "target": "Package",
-            "version": "1.1.1"
-          },
-          "Microsoft.EntityFrameworkCore.Tools": {
-            "target": "Package",
-            "version": "1.1.0"
-          },
-          "Microsoft.Extensions.Configuration": {
-            "target": "Package",
-            "version": "1.1.1"
+            "version": "[1.1.1, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "target": "Package",
-            "version": "1.1.1"
-          },
-          "NETStandard.Library": {
-            "target": "Package",
-            "version": "1.6.1",
-            "autoReferenced": true
+            "version": "[1.1.1, )"
           },
           "Microsoft.EntityFrameworkCore.SqlServer": {
             "target": "Package",
-            "version": "1.1.1"
+            "version": "[1.1.1, )"
+          },
+          "Microsoft.EntityFrameworkCore.Tools": {
+            "target": "Package",
+            "version": "[1.1.0, )"
+          },
+          "Microsoft.Extensions.Configuration": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          },
+          "Microsoft.Extensions.Configuration.FileExtensions": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          },
+          "Microsoft.Extensions.Configuration.Json": {
+            "target": "Package",
+            "version": "[1.1.1, )"
+          },
+          "NETStandard.Library": {
+            "target": "Package",
+            "version": "[1.6.1, )",
+            "autoReferenced": true
           }
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "FluentValidation 6.4.1 depends on System.Text.RegularExpressions (>= 4.0.12) but System.Text.RegularExpressions 4.0.12 was not found. An approximate best match of System.Text.RegularExpressions 4.1.0 was resolved.",
+      "libraryId": "System.Text.RegularExpressions",
+      "targetGraphs": [
+        ".NETStandard,Version=v1.6"
+      ]
+    }
+  ]
 }
