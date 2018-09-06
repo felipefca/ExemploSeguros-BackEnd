@@ -22,3 +22,6 @@ C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Services.WebApi\obj\Debug\
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Services.WebApi\obj\Debug\netcoreapp1.1\ExemploSeguros.Services.WebApi.csproj.CopyComplete
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Services.WebApi\obj\Debug\netcoreapp1.1\ExemploSeguros.Services.WebApi.dll
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Services.WebApi\obj\Debug\netcoreapp1.1\ExemploSeguros.Services.WebApi.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Services.WebApi\bin\Debug\netcoreapp1.1\ExemploSeguros.Services.WebApi.runtimeconfig.json
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Services.WebApi\bin\Debug\netcoreapp1.1\ExemploSeguros.Services.WebApi.runtimeconfig.dev.json
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Services.WebApi\obj\Debug\netcoreapp1.1\ExemploSeguros.Services.WebApi.AssemblyInfoInputs.cache

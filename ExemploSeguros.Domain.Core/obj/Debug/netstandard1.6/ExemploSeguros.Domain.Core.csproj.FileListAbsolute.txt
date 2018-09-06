@@ -12,3 +12,5 @@ C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain.Core\obj\Debug\nets
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain.Core\obj\Debug\netstandard1.6\ExemploSeguros.Domain.Core.AssemblyInfo.cs
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain.Core\obj\Debug\netstandard1.6\ExemploSeguros.Domain.Core.dll
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain.Core\obj\Debug\netstandard1.6\ExemploSeguros.Domain.Core.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain.Core\obj\Debug\netstandard1.6\ExemploSeguros.Domain.Core.csprojAssemblyReference.cache
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Domain.Core\obj\Debug\netstandard1.6\ExemploSeguros.Domain.Core.AssemblyInfoInputs.cache

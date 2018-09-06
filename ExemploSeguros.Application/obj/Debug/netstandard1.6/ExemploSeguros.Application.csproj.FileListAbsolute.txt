@@ -22,3 +22,4 @@ C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Application\obj\Debug\nets
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Application\obj\Debug\netstandard1.6\ExemploSeguros.Application.csproj.CopyComplete
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Application\obj\Debug\netstandard1.6\ExemploSeguros.Application.dll
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Application\obj\Debug\netstandard1.6\ExemploSeguros.Application.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Application\obj\Debug\netstandard1.6\ExemploSeguros.Application.AssemblyInfoInputs.cache

@@ -12,6 +12,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="system.componentmodel" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\ExemploSeguros.Domain.Core\ExemploSeguros.Domain.Core.csproj" />
   </ItemGroup>
 

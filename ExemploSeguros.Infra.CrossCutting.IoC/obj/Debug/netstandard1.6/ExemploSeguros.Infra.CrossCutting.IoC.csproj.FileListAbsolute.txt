@@ -40,3 +40,4 @@ C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.csproj.CopyComplete
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.dll
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.pdb
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.IoC\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache

@@ -20,3 +20,4 @@ C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\bin
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.dll
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\bin\Debug\netstandard1.6\ExemploSeguros.Domain.Core.pdb
 C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Repositorios\ExemploSeguros-BackEnd\ExemploSeguros.Infra.CrossCutting.Bus\obj\Debug\netstandard1.6\ExemploSeguros.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
